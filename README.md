@@ -19,9 +19,9 @@ Tools & Platforms:
 Development Practices: Agile, Pair Programming, Design Patterns, Team-based Software Development
 
 ## 🚀 Featured Projects
--github.com/KellenAuth/simon-game
--github.com/KellenAuth/graderific
--github.com/KellenAuth/multiplayer-snake-game
+- github.com/KellenAuth/simon-game
+- github.com/KellenAuth/graderific
+- github.com/KellenAuth/multiplayer-snake-game
 
 ## 📫 How to Reach Me
 - Email: authkellen.utah@gmail.com
